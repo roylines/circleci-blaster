@@ -1,0 +1,27 @@
+{
+  "name": "circleci-blaster",
+  "version": "1.0.0",
+  "description": "bulk update circleci settings",
+  "main": "index.js",
+  "bin": {
+    "circleci-blaster": "bin/blaster"
+  },
+  "scripts": {
+    "test": "lab"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roylines/circleci-blaster.git"
+  },
+  "keywords": [
+    "circleci",
+    "aws",
+    "update"
+  ],
+  "author": "Roy Lines",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roylines/circleci-blaster/issues"
+  },
+  "homepage": "https://github.com/roylines/circleci-blaster#readme"
+}
